@@ -116,17 +116,6 @@ See `/docs/DrawItOrLoseIt_UML.png` for the full domain model. It highlights:
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome! Please open an issue first to discuss major changes.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feat/someFeature`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feat/someFeature`)
-5. Open a PR
-
----
 
 ## 📄 License
 

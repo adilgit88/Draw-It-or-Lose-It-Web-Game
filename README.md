@@ -4,6 +4,9 @@
 ```markdown
 # Draw It or Lose It – Web Game (CS 230 Project One)
 
+![image](https://github.com/user-attachments/assets/be8fd8fb-43e2-43d8-af9a-e23085fbdb0b)
+![image](https://github.com/user-attachments/assets/be8fd8fb-43e2-43d8-af9a-e23085fbdb0b)
+
 > A multi-platform, web-based re-imagining of *Draw It or Lose It*, built for **The Gaming Room** by **Creative Technology Solutions (CTS)**.
 
 ---

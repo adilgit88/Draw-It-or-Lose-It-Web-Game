@@ -1,7 +1,4 @@
-# Draw-It-or-Lose-It-Web-Game
 
-
-```markdown
 # Draw It or Lose It – Web Game (CS 230 Project One)
 
 ![image](https://github.com/user-attachments/assets/be8fd8fb-43e2-43d8-af9a-e23085fbdb0b)
@@ -120,10 +117,5 @@ See `/docs/DrawItOrLoseIt_UML.png` for the full domain model. It highlights:
 ---
 
 
-## 📄 License
-
-Distributed under the MIT License – see `LICENSE` file for details.
-
----
 
 
